@@ -1,10 +1,10 @@
 .post {
-  background-image: url("https://specials-images.forbesimg.com/imageserve/5f96fe1769feaff1500a01cf/960x0.jpg");
+  /* background-image: url("http://img.koreatimes.co.kr/upload/newsV2/images/202012/adb70a45d8c04a0480a77d5b084cc89c.jpg/dims/");
   background-repeat: no-repeat;
-  background-size: 100% auto;
+  background-size: 100% auto; */
   margin-top: 2em;
   margin-bottom: 2em;
-  background-color: #d4d1d1;
+  background-color: #212529;
   padding: 0.5em;
   padding-top: 1.5em;
   width: 75%;
@@ -15,10 +15,10 @@
   border-radius: 2.5em;
   --box-shadow-color: rgb(129, 44, 214);
   box-shadow: 5px 5px 10px 2px var(--box-shadow-color);
-  color: rgb(0, 0, 0);
+  color: white;
   font-family: "Space Mono", monospace;
   font-weight: bold;
-  font-size: 1.5em;
+  /* font-size: 1.5em; */
 
   /* border: 0.1em solid #0a122a; */
 }
