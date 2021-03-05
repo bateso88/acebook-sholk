@@ -1,39 +1,39 @@
-# AceBook
+# Welcome to SpaceBook
 
-## Our App
-[Acebook ShoLk](https://fierce-plains-18412.herokuapp.com)
+[Spacebook](https://fierce-plains-18412.herokuapp.com)
 
-REQUIRED INSTRUCTIONS:
+Spacebook is an app that allows users to create, read, update and delete posts. Our app has been successfully deployed to Heroku while using Travis for continuous integration. Contributors to the project include Oliver Bates, Hugh Cavanagh, Salar Ghotaslo, Karsten Finlay and Louis Wickremeratne.
 
-1. Fork this repository to `acebook-teamname` and customize
-the below**
+## Prerequisites
 
-[You can find the engineering project outline here.](https://github.com/makersacademy/course/tree/master/engineering_projects/rails)
-
-2. The card wall is here: <please update>
-
-## How to contribute to this project
-See [CONTRIBUTING.md](CONTRIBUTING.md)
+- Ruby on rails
 
 ## Quickstart
 
-First, clone this repository. Then:
+First clone this repo! Then:
 
-```bash
+```
 > bundle install
-> bin/rails db:create
 > bin/rails db:migrate
+> bundle exec rspec # make sure all tests are passing
+> rails s # start the server at localhost:3000
 
-> bundle exec rspec # Run the tests to ensure it works
-> bin/rails server # Start the server at localhost:3000
 ```
 
-## Troubleshooting
+## What have we done?
 
-If you don't have Node.js installed yet, you might run into this error when running rspec:
-```
-ExecJS::RuntimeUnavailable:
-  Could not find a JavaScript runtime. See https://github.com/rails/execjs for a list of available runtimes.
- ```
-That is because Rails will use a Javascript runtime (such as Node) under the hood. The easiest way is to install Node by running `brew install node` - 
-and then run `bundle exec rspec` again
+[Trello Card Wall](https://trello.com/b/9Td5gkMI/acebook-sholk)
+
+## Who are we?
+- [Karsten](https://github.com/KarstenFinlay)
+- [Hugh](https://github.com/hacaravan)
+- [Ollie](https://github.com/bateso88)
+- [Louis](https://github.com/louiswicks)
+- [Salar](https://github.com/SalarGhotaslo)
+
+## Our App
+- We have built a clone of Facebook as part of the Makers Academy Course.
+- It's built in Rails with some Javascript on the frontend.
+- It's hosted in Heroku -
+[Spacebook](https://fierce-plains-18412.herokuapp.com)
+- It's got a fun space theme.
