@@ -34,6 +34,9 @@ To develop the app, we followed the client requirements in deciding what feature
 - A user can not edit their own post after 10 minutes
 - A user can delete their own posts
 - A user can not delete other peoples posts
+
+#### Navigation bar
+
 - If a user is signed in, the navigation bar should display the following links:
   Spacebook homepage, Posts, New posts, Settings and Sign out
 - If a user is not signed in, the nagvigation bar should display the following links:
