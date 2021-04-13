@@ -77,7 +77,7 @@ First clone this repo! Then:
 
 ```
 
-## What have we done?
+## Project board
 
 [Trello Card Wall](https://trello.com/b/9Td5gkMI/acebook-sholk)
 
