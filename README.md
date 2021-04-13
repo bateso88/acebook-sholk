@@ -8,9 +8,9 @@ This was a team project built in two weeks as part of the Makers Academy coding 
 
 To develop the app, we followed the client requirements in deciding what features to focus on. We took advantage of several existing gems (libraries) to simplify our work.
 
-[Spacebook](https://fierce-plains-18412.herokuapp.com)
+## Key Contributors
 
-Spacebook is an app that allows users to create, read, update and delete posts. Our app has been successfully deployed to Heroku while using Travis for continuous integration. Contributors to the project include Oliver Bates, Hugh Cavanagh, Salar Ghotaslo, Karsten Finlay and Louis Wickremeratne.
+Contributors to the project include Oliver Bates, Hugh Cavanagh, Salar Ghotaslo, Karsten Finlay and Louis Wickremeratne.
 
 ## Prerequisites
 
