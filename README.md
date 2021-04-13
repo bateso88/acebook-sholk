@@ -25,8 +25,9 @@ To develop the app, we followed the client requirements in deciding what feature
 - A user can create a post
 - A user can only create a post if you are signed up and signed in
 - The post will display: the message, who wrote it (username), the date of the post and the time.
-
+- Posts can have line breaks between them
 - A user can not write out an empty post
+
 - A user can edit your own posts
 - A user can not edit other peoples posts
 - A user can only edit your own post up to 10 minutes after you have posted it.
