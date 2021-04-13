@@ -16,6 +16,13 @@ To develop the app, we followed the client requirements in deciding what feature
 - An email address must be a valid email address otherwise it won't work
 - When a user creates a password it must be between 6-10 characters long
 - Users can update their user information once they are signed in. This includes - changing email, username and password.
+- When a user signs up they are taken to the homepage of Spacebook
+- A user can create a post
+- A user can only create a post if you are signed up and signed in
+- A user can not write out an empty post
+- A user can edit your own posts
+- A user can not edit other peoples posts
+- A user can like each post one time
 
 ## Key Contributors
 
