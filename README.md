@@ -27,6 +27,10 @@ To develop the app, we followed the client requirements in deciding what feature
 - A user can only edit your own post up to 10 minutes after you have posted it.
 - A user can not edit your own post after 10 minutes
 - A user can not edit their own post after 10 minutes
+- A user can delete their own posts
+- A user can not delete other peoples posts
+- If a user is signed in, the navigation bar should display the following links:
+  Spacebook homepage, Posts, New posts, Settings and Sign out
 
 ## Key Contributors
 
