@@ -29,6 +29,8 @@ To develop the app, we followed the client requirements in deciding what feature
 - A user can not write out an empty post
 - Newest posts are shown first
 
+#### Editing/Deleting posts
+
 - A user can edit your own posts
 - A user can not edit other peoples posts
 - A user can only edit your own post up to 10 minutes after you have posted it.
@@ -42,7 +44,6 @@ To develop the app, we followed the client requirements in deciding what feature
 - A user can like each post one time
 - A user can unlike a post after you have liked a post only
 - When you like a post the page does not refresh and does it automatically
--
 
 #### Navigation bar
 
@@ -55,7 +56,6 @@ To develop the app, we followed the client requirements in deciding what feature
 #### Alert messages
 
 - Depending on what the user has just done on the page, they will recieve certain alert messages at the top of their screen. e.g. If a user has just signed up they will get a welcome message on the home page or if a user that hasn't signed in tries to click on the posts page they will get an alert telling them to sign in or sign up before continuing.
-- A user is given a warning message if they try and edit other peoples posts
 
 ## Key Contributors
 
