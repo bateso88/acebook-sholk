@@ -34,6 +34,7 @@ To develop the app, we followed the client requirements in deciding what feature
 - If a user is not signed in, the nagvigation bar should display the following links:
   Spacebook homepage, Posts, Sign up, Sign in, New post
 - If a user that is not signed in and clicks on anything other than sign up page, they will be redirected to the sign in page.
+- Depending on what the user has just done on the page, they will recieve certain alert messages at the top of their screen. e.g. If a user has just signed up they will get a welcome message on the home page or if a user that hasn't signed in tries to click on the posts page they will get an alert telling them to sign in or sign up before continuing.
 
 ## Key Contributors
 
