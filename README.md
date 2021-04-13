@@ -31,6 +31,9 @@ To develop the app, we followed the client requirements in deciding what feature
 - A user can not delete other peoples posts
 - If a user is signed in, the navigation bar should display the following links:
   Spacebook homepage, Posts, New posts, Settings and Sign out
+- If a user is not signed in, the nagvigation bar should display the following links:
+  Spacebook homepage, Posts, Sign up, Sign in, New post
+- If a user that is not signed in and clicks on anything other than sign up page, they will be redirected to the sign in page.
 
 ## Key Contributors
 
