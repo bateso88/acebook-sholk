@@ -27,6 +27,7 @@ To develop the app, we followed the client requirements in deciding what feature
 - The post will display: the message, who wrote it (username), the date of the post and the time.
 - Posts can have line breaks between them
 - A user can not write out an empty post
+- Newest posts are shown first
 
 - A user can edit your own posts
 - A user can not edit other peoples posts
@@ -54,6 +55,7 @@ To develop the app, we followed the client requirements in deciding what feature
 #### Alert messages
 
 - Depending on what the user has just done on the page, they will recieve certain alert messages at the top of their screen. e.g. If a user has just signed up they will get a welcome message on the home page or if a user that hasn't signed in tries to click on the posts page they will get an alert telling them to sign in or sign up before continuing.
+- A user is given a warning message if they try and edit other peoples posts
 
 ## Key Contributors
 
