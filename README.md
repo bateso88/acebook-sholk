@@ -39,7 +39,7 @@ To develop the app, we followed the client requirements in deciding what feature
 - A user can delete their own posts
 - A user can not delete other peoples posts
 
-##### Liking posts
+#### Liking posts
 
 - A user can like each post one time
 - A user can unlike a post after you have liked a post only
