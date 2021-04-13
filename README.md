@@ -8,6 +8,15 @@ This was a team project built in two weeks as part of the Makers Academy coding 
 
 To develop the app, we followed the client requirements in deciding what features to focus on. We took advantage of several existing gems (libraries) to simplify our work.
 
+## Key Features
+
+- A user can sign up to Spacebook. This is done by entering account name, email and password.
+- Once a user has signed up they can login and logout of Spacebook
+- No two users can have the same email address or username.
+- An email address must be a valid email address otherwise it won't work
+- When a user creates a password it must be between 6-10 characters long
+- Users can update their user information once they are signed in. This includes - changing email, username and password.
+
 ## Key Contributors
 
 Contributors to the project include Oliver Bates, Hugh Cavanagh, Salar Ghotaslo, Karsten Finlay and Louis Wickremeratne.
