@@ -23,6 +23,10 @@ To develop the app, we followed the client requirements in deciding what feature
 - A user can edit your own posts
 - A user can not edit other peoples posts
 - A user can like each post one time
+- A user can unlike a post after you have liked a post only
+- A user can only edit your own post up to 10 minutes after you have posted it.
+- A user can not edit your own post after 10 minutes
+- A user can not edit their own post after 10 minutes
 
 ## Key Contributors
 
