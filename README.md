@@ -1,5 +1,13 @@
 # Welcome to SpaceBook
 
+## Description
+
+A Facebook-inspired social messaging platform, where users can post their thoughts, like and comment on posts.
+
+This was a team project built in two weeks as part of the Makers Academy coding bootcamp. The brief was to create a Facebook clone using Ruby on Rails, a framework new to all of us. We were given a Rails project skeleton to work from.
+
+To develop the app, we followed the client requirements in deciding what features to focus on. We took advantage of several existing gems (libraries) to simplify our work.
+
 [Spacebook](https://fierce-plains-18412.herokuapp.com)
 
 Spacebook is an app that allows users to create, read, update and delete posts. Our app has been successfully deployed to Heroku while using Travis for continuous integration. Contributors to the project include Oliver Bates, Hugh Cavanagh, Salar Ghotaslo, Karsten Finlay and Louis Wickremeratne.
@@ -25,6 +33,7 @@ First clone this repo! Then:
 [Trello Card Wall](https://trello.com/b/9Td5gkMI/acebook-sholk)
 
 ## Who are we?
+
 - [Karsten](https://github.com/KarstenFinlay)
 - [Hugh](https://github.com/hacaravan)
 - [Ollie](https://github.com/bateso88)
@@ -32,8 +41,9 @@ First clone this repo! Then:
 - [Salar](https://github.com/SalarGhotaslo)
 
 ## Our App
+
 - We have built a clone of Facebook as part of the Makers Academy Course.
 - It's built in Rails with some Javascript on the frontend.
 - It's hosted in Heroku -
-[Spacebook](https://fierce-plains-18412.herokuapp.com)
+  [Spacebook](https://fierce-plains-18412.herokuapp.com)
 - It's got a fun space theme.
