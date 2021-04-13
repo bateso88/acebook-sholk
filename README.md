@@ -29,7 +29,7 @@ To develop the app, we followed the client requirements in deciding what feature
 - A user can not write out an empty post
 - Newest posts are shown first
 
-#### Editing/Deleting posts
+#### Editing/Deleting posts
 
 - A user can edit your own posts
 - A user can not edit other peoples posts
