@@ -24,16 +24,23 @@ To develop the app, we followed the client requirements in deciding what feature
 - When a user signs up they are taken to the homepage of Spacebook
 - A user can create a post
 - A user can only create a post if you are signed up and signed in
+- The post will display: the message, who wrote it (username), the date of the post and the time.
+
 - A user can not write out an empty post
 - A user can edit your own posts
 - A user can not edit other peoples posts
-- A user can like each post one time
-- A user can unlike a post after you have liked a post only
 - A user can only edit your own post up to 10 minutes after you have posted it.
 - A user can not edit your own post after 10 minutes
 - A user can not edit their own post after 10 minutes
 - A user can delete their own posts
 - A user can not delete other peoples posts
+
+##### Liking posts
+
+- A user can like each post one time
+- A user can unlike a post after you have liked a post only
+- When you like a post the page does not refresh and does it automatically
+-
 
 #### Navigation bar
 
