@@ -77,9 +77,10 @@ First clone this repo! Then:
 
 ```
 
-## Project board
+## Resources
 
 [Trello Card Wall](https://trello.com/b/9Td5gkMI/acebook-sholk)
+[Wiki - Team charter, Retros and Sprint Reviews](https://github.com/SalarGhotaslo/acebook-sholk/wiki)
 
 ## Who are we?
 
@@ -95,4 +96,4 @@ First clone this repo! Then:
 - It's built in Rails with some Javascript on the frontend.
 - It's hosted in Heroku -
   [Spacebook](https://limitless-fortress-82053.herokuapp.com)
-- It's got a fun space theme.
+- It has a fun space theme.
