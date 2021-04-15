@@ -13,45 +13,44 @@ To develop the app, we followed the client requirements in deciding what feature
 
 #### Sign up/Sign in
 
-- A user can sign up to Spacebook. This is done by entering account name, email and password.
+- A user can sign up to Spacebook. This is done by entering account name, email and password
 - Once a user has signed up they can login and logout of Spacebook
-- No two users can have the same email address or username.
+- No two users can have the same email address or username
 - An email address must be a valid email address otherwise it won't work
 - When a user creates a password it must be between 6-10 characters long
-- Users can update their user information once they are signed in. This includes - changing email, username and password.
+- Users can update their user information once they are signed in. This includes - changing email, username and password and deleting the account.
 
 #### Posts
 
 - When a user signs up they are taken to the homepage of Spacebook
 - A user can create a post
 - A user can only create a post if you are signed up and signed in
-- The post will display: the message, who wrote it (username), the date of the post and the time.
-- Posts can have line breaks between them
+- The post will display: the message, the username of the person posting, the date of the post and the time last edited
+- Posts can have line breaks wihtin them
 - A user can not write out an empty post
 - Newest posts are shown first
 
 #### Editing/Deleting posts
 
-- A user can edit your own posts
-- A user can not edit other peoples posts
-- A user can only edit your own post up to 10 minutes after you have posted it.
-- A user can not edit your own post after 10 minutes
-- A user can not edit their own post after 10 minutes
+- A user can edit thier own posts
+- A user can not edit other people's posts
+- A user can only edit their own post up to 10 minutes after they have posted.
+- A user can not edit thier own post after 10 minutes
 - A user can delete their own posts
-- A user can not delete other peoples posts
+- A user can not delete other people's posts
 
 #### Liking posts
 
-- A user can like each post one time
-- A user can unlike a post after you have liked a post only
-- When you like a post the page does not refresh and does it automatically
+- A user can like each post only once
+- A user can only unlike a post after they have liked it
+- When liking a post the page updates asyncronously
 
 #### Navigation bar
 
-- If a user is signed in, the navigation bar should display the following links:
-  Spacebook homepage, Posts, New posts, Settings and Sign out
-- If a user is not signed in, the nagvigation bar should display the following links:
-  Spacebook homepage, Posts, Sign up, Sign in, New post
+- If a user is signed in, the navigation bar displays the following links:
+  Spacebook homepage, Posts, New Post, Settings and Sign out
+- If a user is not signed in, the navigation bar displays the following links:
+  Spacebook homepage, Posts, Sign up, Sign in, New Post
 - If a user that is not signed in and clicks on anything other than sign up page, they will be redirected to the sign in page.
 
 #### Alert messages
