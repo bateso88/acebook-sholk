@@ -79,7 +79,7 @@ First clone this repo! Then:
 
 ## Resources
 
-[Trello Card Wall](https://trello.com/b/9Td5gkMI/acebook-sholk)
+[Trello Card Wall](https://trello.com/b/9Td5gkMI/acebook-sholk)  
 [Wiki - Team charter, Retros and Sprint Reviews](https://github.com/SalarGhotaslo/acebook-sholk/wiki)
 
 ## Who are we?
